@@ -1,0 +1,2818 @@
+{
+  "Version": 1,
+  "Hash": "XFkq9+Kafa4b+62qq7oS14n+vQGuCrhYFEBQqHT9VDc=",
+  "Source": "ScrumPoker.Server",
+  "BasePath": "_content/ScrumPoker.Server",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.client\\scrumpoker.client.esproj",
+      "Version": 2,
+      "Source": "scrumpoker.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ScrumPoker.Server\\wwwroot",
+      "Source": "ScrumPoker.Server",
+      "ContentRoot": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\wwwroot\\",
+      "BasePath": "_content/ScrumPoker.Server",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.client\\dist\\assets\\index-BW0qL3Ja.css",
+      "SourceId": "scrumpoker.client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.client\\dist\\",
+      "BasePath": "/",
+      "RelativePath": "assets/index-BW0qL3Ja.css",
+      "AssetKind": "Publish",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4bfkngwmzy",
+      "Integrity": "gMFsQ+vnjZxWEVukX8LI2oaUr7mRAQzoWJTSyzqXGV4=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.client\\dist\\assets\\index-BW0qL3Ja.css"
+    },
+    {
+      "Identity": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.client\\dist\\assets\\index-TePfY3mc.js",
+      "SourceId": "scrumpoker.client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.client\\dist\\",
+      "BasePath": "/",
+      "RelativePath": "assets/index-TePfY3mc.js",
+      "AssetKind": "Publish",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dpug1vq5nm",
+      "Integrity": "cVxtcsrUzKUFb7J20o8g2qYe6H0s159te+MtMajVsUo=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.client\\dist\\assets\\index-TePfY3mc.js"
+    },
+    {
+      "Identity": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.client\\dist\\index.html",
+      "SourceId": "scrumpoker.client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.client\\dist\\",
+      "BasePath": "/",
+      "RelativePath": "index.html",
+      "AssetKind": "Publish",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f0w6o6t5b3",
+      "Integrity": "cRgBH+prjSDLtNR3u2zCz1PjGyYa6uc1xufljyTpsBQ=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.client\\dist\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.client\\dist\\vite.svg",
+      "SourceId": "scrumpoker.client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.client\\dist\\",
+      "BasePath": "/",
+      "RelativePath": "vite.svg",
+      "AssetKind": "Publish",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "69kjnsiwqx",
+      "Integrity": "SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.client\\dist\\vite.svg"
+    },
+    {
+      "Identity": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\nvj9huyezp-69kjnsiwqx.gz",
+      "SourceId": "ScrumPoker.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/ScrumPoker.Server",
+      "RelativePath": "vite#[.{fingerprint=69kjnsiwqx}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\wwwroot\\vite.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "zg8rzofdes",
+      "Integrity": "XQkDcax/ToCYcNsBDmzd6VCkok+CNLm2INPe95PRPSM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\wwwroot\\vite.svg"
+    },
+    {
+      "Identity": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\3430fe91v0-4bfkngwmzy.br",
+      "SourceId": "scrumpoker.client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\",
+      "BasePath": "/",
+      "RelativePath": "assets/index-BW0qL3Ja.css.br",
+      "AssetKind": "Publish",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.client\\dist\\assets\\index-BW0qL3Ja.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "fgbza5ue29",
+      "Integrity": "Qf0/3syWn5TtddJjc9Bh2mF86kHCsUzl5zjBpd93bZ8=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.client\\dist\\assets\\index-BW0qL3Ja.css"
+    },
+    {
+      "Identity": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\3430fe91v0-4bfkngwmzy.gz",
+      "SourceId": "scrumpoker.client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\",
+      "BasePath": "/",
+      "RelativePath": "assets/index-BW0qL3Ja.css.gz",
+      "AssetKind": "Publish",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.client\\dist\\assets\\index-BW0qL3Ja.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "6c8is3p7ix",
+      "Integrity": "ttIc1uqeWrNVIF+KKuNZgvY6SzPVto4p1vQYH8DNwmk=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.client\\dist\\assets\\index-BW0qL3Ja.css"
+    },
+    {
+      "Identity": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\eu7m4bqr1l-f0w6o6t5b3.br",
+      "SourceId": "scrumpoker.client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\",
+      "BasePath": "/",
+      "RelativePath": "index.html.br",
+      "AssetKind": "Publish",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.client\\dist\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "9wescymh1e",
+      "Integrity": "l9FnewRlAUvdCCCsmq4Pjxmcoq3z02WztJw437MUMDU=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.client\\dist\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\eu7m4bqr1l-f0w6o6t5b3.gz",
+      "SourceId": "scrumpoker.client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\",
+      "BasePath": "/",
+      "RelativePath": "index.html.gz",
+      "AssetKind": "Publish",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.client\\dist\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "40ngnywisu",
+      "Integrity": "jGh2aizhQHGXyY6twHIaJAk/MqbWCyNfbFKGVAy4ebs=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.client\\dist\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\i2irfdbxnx-dpug1vq5nm.br",
+      "SourceId": "scrumpoker.client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\",
+      "BasePath": "/",
+      "RelativePath": "assets/index-TePfY3mc.js.br",
+      "AssetKind": "Publish",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.client\\dist\\assets\\index-TePfY3mc.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "nkc2o77i3r",
+      "Integrity": "JzAMm2VNRgpvF1JEfWUqIhuGFlYLLddYmjms8CF2Wsk=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.client\\dist\\assets\\index-TePfY3mc.js"
+    },
+    {
+      "Identity": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\i2irfdbxnx-dpug1vq5nm.gz",
+      "SourceId": "scrumpoker.client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\",
+      "BasePath": "/",
+      "RelativePath": "assets/index-TePfY3mc.js.gz",
+      "AssetKind": "Publish",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.client\\dist\\assets\\index-TePfY3mc.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "p5qbwwfb7d",
+      "Integrity": "LamaSVA0QAByFV2dOCtd6MMudgu067iGw8ZlYwkR+qQ=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.client\\dist\\assets\\index-TePfY3mc.js"
+    },
+    {
+      "Identity": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\jk0q53du7f-69kjnsiwqx.br",
+      "SourceId": "scrumpoker.client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\",
+      "BasePath": "/",
+      "RelativePath": "vite.svg.br",
+      "AssetKind": "Publish",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.client\\dist\\vite.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "mbs1zotvw1",
+      "Integrity": "ojgkTRs8O5BbJRvhn48R73h+4WBGEeBhXbrIrIbtbX0=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.client\\dist\\vite.svg"
+    },
+    {
+      "Identity": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\jk0q53du7f-69kjnsiwqx.gz",
+      "SourceId": "scrumpoker.client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\",
+      "BasePath": "/",
+      "RelativePath": "vite.svg.gz",
+      "AssetKind": "Publish",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.client\\dist\\vite.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "zg8rzofdes",
+      "Integrity": "XQkDcax/ToCYcNsBDmzd6VCkok+CNLm2INPe95PRPSM=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.client\\dist\\vite.svg"
+    },
+    {
+      "Identity": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\nvj9huyezp-69kjnsiwqx.br",
+      "SourceId": "ScrumPoker.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\",
+      "BasePath": "_content/ScrumPoker.Server",
+      "RelativePath": "vite#[.{fingerprint=69kjnsiwqx}]?.svg.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\wwwroot\\vite.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "mbs1zotvw1",
+      "Integrity": "ojgkTRs8O5BbJRvhn48R73h+4WBGEeBhXbrIrIbtbX0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\wwwroot\\vite.svg"
+    },
+    {
+      "Identity": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\ula6rfv7aq-8s2hs4i2qd.br",
+      "SourceId": "ScrumPoker.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\",
+      "BasePath": "_content/ScrumPoker.Server",
+      "RelativePath": "assets/index-CIbchu8r#[.{fingerprint=8s2hs4i2qd}]?.js.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\wwwroot\\assets\\index-CIbchu8r.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "y3h3hower5",
+      "Integrity": "ovWRBV9ePj3rSTTdJisM2UVsQXGSv3XI8JlGgty1VTo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\wwwroot\\assets\\index-CIbchu8r.js"
+    },
+    {
+      "Identity": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\we139hwhi1-co0ufal8zv.br",
+      "SourceId": "ScrumPoker.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\",
+      "BasePath": "_content/ScrumPoker.Server",
+      "RelativePath": "assets/index-DnVUw_vK#[.{fingerprint=co0ufal8zv}]?.css.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\wwwroot\\assets\\index-DnVUw_vK.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "2spvg1w11j",
+      "Integrity": "vneHOamgpnLmCSd7FYBOySJoS9wbUgsGtGmc+Ke15Cc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\wwwroot\\assets\\index-DnVUw_vK.css"
+    },
+    {
+      "Identity": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\ula6rfv7aq-8s2hs4i2qd.gz",
+      "SourceId": "ScrumPoker.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/ScrumPoker.Server",
+      "RelativePath": "assets/index-CIbchu8r#[.{fingerprint=8s2hs4i2qd}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\wwwroot\\assets\\index-CIbchu8r.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "34a3fau5b5",
+      "Integrity": "DbNohzEGvtLqU2haY4ic3exw5aZPjzAve0dZ4Mr6GbQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\wwwroot\\assets\\index-CIbchu8r.js"
+    },
+    {
+      "Identity": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\we139hwhi1-co0ufal8zv.gz",
+      "SourceId": "ScrumPoker.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/ScrumPoker.Server",
+      "RelativePath": "assets/index-DnVUw_vK#[.{fingerprint=co0ufal8zv}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\wwwroot\\assets\\index-DnVUw_vK.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "b6c66boc20",
+      "Integrity": "I9WpCiBsGNsFaJFpITDlHwVJRspK5e2Ww2vutn7Ea8o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\wwwroot\\assets\\index-DnVUw_vK.css"
+    },
+    {
+      "Identity": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\wwwroot\\assets\\index-CIbchu8r.js",
+      "SourceId": "ScrumPoker.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\wwwroot\\",
+      "BasePath": "_content/ScrumPoker.Server",
+      "RelativePath": "assets/index-CIbchu8r#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8s2hs4i2qd",
+      "Integrity": "qAui5NdB93mHsxkwhPfpaAs6Bk1QPIkPmjn3L2loax4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-CIbchu8r.js"
+    },
+    {
+      "Identity": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\wwwroot\\assets\\index-DnVUw_vK.css",
+      "SourceId": "ScrumPoker.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\wwwroot\\",
+      "BasePath": "_content/ScrumPoker.Server",
+      "RelativePath": "assets/index-DnVUw_vK#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "co0ufal8zv",
+      "Integrity": "7IWdu/U4/UQ5qTO+pGQynS6nEofYo6yhxkWm3Iou6ys=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-DnVUw_vK.css"
+    },
+    {
+      "Identity": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\wwwroot\\vite.svg",
+      "SourceId": "ScrumPoker.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\wwwroot\\",
+      "BasePath": "_content/ScrumPoker.Server",
+      "RelativePath": "vite#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "69kjnsiwqx",
+      "Integrity": "SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\vite.svg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "assets/index-BW0qL3Ja.css",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.client\\dist\\assets\\index-BW0qL3Ja.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "235558"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gMFsQ+vnjZxWEVukX8LI2oaUr7mRAQzoWJTSyzqXGV4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 19:55:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gMFsQ+vnjZxWEVukX8LI2oaUr7mRAQzoWJTSyzqXGV4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-BW0qL3Ja.css",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\3430fe91v0-4bfkngwmzy.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000042594880"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23476"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Qf0/3syWn5TtddJjc9Bh2mF86kHCsUzl5zjBpd93bZ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 19:55:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gMFsQ+vnjZxWEVukX8LI2oaUr7mRAQzoWJTSyzqXGV4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gMFsQ+vnjZxWEVukX8LI2oaUr7mRAQzoWJTSyzqXGV4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-BW0qL3Ja.css",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\3430fe91v0-4bfkngwmzy.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000031326358"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31921"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ttIc1uqeWrNVIF+KKuNZgvY6SzPVto4p1vQYH8DNwmk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 19:55:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gMFsQ+vnjZxWEVukX8LI2oaUr7mRAQzoWJTSyzqXGV4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gMFsQ+vnjZxWEVukX8LI2oaUr7mRAQzoWJTSyzqXGV4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-BW0qL3Ja.css.br",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\3430fe91v0-4bfkngwmzy.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23476"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Qf0/3syWn5TtddJjc9Bh2mF86kHCsUzl5zjBpd93bZ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 19:55:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qf0/3syWn5TtddJjc9Bh2mF86kHCsUzl5zjBpd93bZ8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-BW0qL3Ja.css.gz",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\3430fe91v0-4bfkngwmzy.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31921"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ttIc1uqeWrNVIF+KKuNZgvY6SzPVto4p1vQYH8DNwmk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 19:55:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ttIc1uqeWrNVIF+KKuNZgvY6SzPVto4p1vQYH8DNwmk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-CIbchu8r.8s2hs4i2qd.js",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\ula6rfv7aq-8s2hs4i2qd.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000018877185"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52973"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ovWRBV9ePj3rSTTdJisM2UVsQXGSv3XI8JlGgty1VTo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Nov 2024 10:53:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qAui5NdB93mHsxkwhPfpaAs6Bk1QPIkPmjn3L2loax4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8s2hs4i2qd"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-CIbchu8r.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qAui5NdB93mHsxkwhPfpaAs6Bk1QPIkPmjn3L2loax4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-CIbchu8r.8s2hs4i2qd.js",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\ula6rfv7aq-8s2hs4i2qd.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000016372507"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61077"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DbNohzEGvtLqU2haY4ic3exw5aZPjzAve0dZ4Mr6GbQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Nov 2024 10:53:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qAui5NdB93mHsxkwhPfpaAs6Bk1QPIkPmjn3L2loax4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8s2hs4i2qd"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-CIbchu8r.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qAui5NdB93mHsxkwhPfpaAs6Bk1QPIkPmjn3L2loax4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-CIbchu8r.8s2hs4i2qd.js",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\wwwroot\\assets\\index-CIbchu8r.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "199650"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qAui5NdB93mHsxkwhPfpaAs6Bk1QPIkPmjn3L2loax4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Nov 2024 10:53:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8s2hs4i2qd"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-CIbchu8r.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qAui5NdB93mHsxkwhPfpaAs6Bk1QPIkPmjn3L2loax4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-CIbchu8r.8s2hs4i2qd.js.br",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\ula6rfv7aq-8s2hs4i2qd.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52973"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ovWRBV9ePj3rSTTdJisM2UVsQXGSv3XI8JlGgty1VTo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Nov 2024 10:53:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8s2hs4i2qd"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-CIbchu8r.js.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ovWRBV9ePj3rSTTdJisM2UVsQXGSv3XI8JlGgty1VTo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-CIbchu8r.8s2hs4i2qd.js.gz",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\ula6rfv7aq-8s2hs4i2qd.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DbNohzEGvtLqU2haY4ic3exw5aZPjzAve0dZ4Mr6GbQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Nov 2024 10:53:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8s2hs4i2qd"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-CIbchu8r.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DbNohzEGvtLqU2haY4ic3exw5aZPjzAve0dZ4Mr6GbQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-CIbchu8r.js",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\ula6rfv7aq-8s2hs4i2qd.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000018877185"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52973"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ovWRBV9ePj3rSTTdJisM2UVsQXGSv3XI8JlGgty1VTo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Nov 2024 10:53:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qAui5NdB93mHsxkwhPfpaAs6Bk1QPIkPmjn3L2loax4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qAui5NdB93mHsxkwhPfpaAs6Bk1QPIkPmjn3L2loax4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-CIbchu8r.js",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\ula6rfv7aq-8s2hs4i2qd.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000016372507"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61077"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DbNohzEGvtLqU2haY4ic3exw5aZPjzAve0dZ4Mr6GbQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Nov 2024 10:53:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qAui5NdB93mHsxkwhPfpaAs6Bk1QPIkPmjn3L2loax4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qAui5NdB93mHsxkwhPfpaAs6Bk1QPIkPmjn3L2loax4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-CIbchu8r.js",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\wwwroot\\assets\\index-CIbchu8r.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "199650"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qAui5NdB93mHsxkwhPfpaAs6Bk1QPIkPmjn3L2loax4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Nov 2024 10:53:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qAui5NdB93mHsxkwhPfpaAs6Bk1QPIkPmjn3L2loax4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-CIbchu8r.js.br",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\ula6rfv7aq-8s2hs4i2qd.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52973"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ovWRBV9ePj3rSTTdJisM2UVsQXGSv3XI8JlGgty1VTo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Nov 2024 10:53:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ovWRBV9ePj3rSTTdJisM2UVsQXGSv3XI8JlGgty1VTo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-CIbchu8r.js.gz",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\ula6rfv7aq-8s2hs4i2qd.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DbNohzEGvtLqU2haY4ic3exw5aZPjzAve0dZ4Mr6GbQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Nov 2024 10:53:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DbNohzEGvtLqU2haY4ic3exw5aZPjzAve0dZ4Mr6GbQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-DnVUw_vK.co0ufal8zv.css",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\we139hwhi1-co0ufal8zv.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000043994721"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22729"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vneHOamgpnLmCSd7FYBOySJoS9wbUgsGtGmc+Ke15Cc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Nov 2024 10:53:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7IWdu/U4/UQ5qTO+pGQynS6nEofYo6yhxkWm3Iou6ys=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "co0ufal8zv"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-DnVUw_vK.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7IWdu/U4/UQ5qTO+pGQynS6nEofYo6yhxkWm3Iou6ys="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-DnVUw_vK.co0ufal8zv.css",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\we139hwhi1-co0ufal8zv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000032438043"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30827"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I9WpCiBsGNsFaJFpITDlHwVJRspK5e2Ww2vutn7Ea8o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Nov 2024 10:53:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7IWdu/U4/UQ5qTO+pGQynS6nEofYo6yhxkWm3Iou6ys=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "co0ufal8zv"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-DnVUw_vK.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7IWdu/U4/UQ5qTO+pGQynS6nEofYo6yhxkWm3Iou6ys="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-DnVUw_vK.co0ufal8zv.css",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\wwwroot\\assets\\index-DnVUw_vK.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "231929"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7IWdu/U4/UQ5qTO+pGQynS6nEofYo6yhxkWm3Iou6ys=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Nov 2024 10:53:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "co0ufal8zv"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-DnVUw_vK.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7IWdu/U4/UQ5qTO+pGQynS6nEofYo6yhxkWm3Iou6ys="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-DnVUw_vK.co0ufal8zv.css.br",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\we139hwhi1-co0ufal8zv.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22729"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vneHOamgpnLmCSd7FYBOySJoS9wbUgsGtGmc+Ke15Cc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Nov 2024 10:53:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "co0ufal8zv"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-DnVUw_vK.css.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vneHOamgpnLmCSd7FYBOySJoS9wbUgsGtGmc+Ke15Cc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-DnVUw_vK.co0ufal8zv.css.gz",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\we139hwhi1-co0ufal8zv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30827"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I9WpCiBsGNsFaJFpITDlHwVJRspK5e2Ww2vutn7Ea8o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Nov 2024 10:53:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "co0ufal8zv"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-DnVUw_vK.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-I9WpCiBsGNsFaJFpITDlHwVJRspK5e2Ww2vutn7Ea8o="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-DnVUw_vK.css",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\we139hwhi1-co0ufal8zv.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000043994721"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22729"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vneHOamgpnLmCSd7FYBOySJoS9wbUgsGtGmc+Ke15Cc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Nov 2024 10:53:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7IWdu/U4/UQ5qTO+pGQynS6nEofYo6yhxkWm3Iou6ys=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7IWdu/U4/UQ5qTO+pGQynS6nEofYo6yhxkWm3Iou6ys="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-DnVUw_vK.css",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\we139hwhi1-co0ufal8zv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000032438043"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30827"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I9WpCiBsGNsFaJFpITDlHwVJRspK5e2Ww2vutn7Ea8o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Nov 2024 10:53:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7IWdu/U4/UQ5qTO+pGQynS6nEofYo6yhxkWm3Iou6ys=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7IWdu/U4/UQ5qTO+pGQynS6nEofYo6yhxkWm3Iou6ys="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-DnVUw_vK.css",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\wwwroot\\assets\\index-DnVUw_vK.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "231929"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7IWdu/U4/UQ5qTO+pGQynS6nEofYo6yhxkWm3Iou6ys=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Nov 2024 10:53:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7IWdu/U4/UQ5qTO+pGQynS6nEofYo6yhxkWm3Iou6ys="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-DnVUw_vK.css.br",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\we139hwhi1-co0ufal8zv.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22729"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vneHOamgpnLmCSd7FYBOySJoS9wbUgsGtGmc+Ke15Cc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Nov 2024 10:53:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vneHOamgpnLmCSd7FYBOySJoS9wbUgsGtGmc+Ke15Cc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-DnVUw_vK.css.gz",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\we139hwhi1-co0ufal8zv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30827"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I9WpCiBsGNsFaJFpITDlHwVJRspK5e2Ww2vutn7Ea8o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Nov 2024 10:53:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-I9WpCiBsGNsFaJFpITDlHwVJRspK5e2Ww2vutn7Ea8o="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-TePfY3mc.js",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.client\\dist\\assets\\index-TePfY3mc.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "212728"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cVxtcsrUzKUFb7J20o8g2qYe6H0s159te+MtMajVsUo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 19:55:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cVxtcsrUzKUFb7J20o8g2qYe6H0s159te+MtMajVsUo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-TePfY3mc.js",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\i2irfdbxnx-dpug1vq5nm.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000017703188"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56486"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JzAMm2VNRgpvF1JEfWUqIhuGFlYLLddYmjms8CF2Wsk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 19:55:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"cVxtcsrUzKUFb7J20o8g2qYe6H0s159te+MtMajVsUo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cVxtcsrUzKUFb7J20o8g2qYe6H0s159te+MtMajVsUo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-TePfY3mc.js",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\i2irfdbxnx-dpug1vq5nm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000015311825"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65308"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LamaSVA0QAByFV2dOCtd6MMudgu067iGw8ZlYwkR+qQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 19:55:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"cVxtcsrUzKUFb7J20o8g2qYe6H0s159te+MtMajVsUo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cVxtcsrUzKUFb7J20o8g2qYe6H0s159te+MtMajVsUo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-TePfY3mc.js.br",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\i2irfdbxnx-dpug1vq5nm.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56486"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JzAMm2VNRgpvF1JEfWUqIhuGFlYLLddYmjms8CF2Wsk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 19:55:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JzAMm2VNRgpvF1JEfWUqIhuGFlYLLddYmjms8CF2Wsk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-TePfY3mc.js.gz",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\i2irfdbxnx-dpug1vq5nm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65308"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LamaSVA0QAByFV2dOCtd6MMudgu067iGw8ZlYwkR+qQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 19:55:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LamaSVA0QAByFV2dOCtd6MMudgu067iGw8ZlYwkR+qQ="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.client\\dist\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1738"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cRgBH+prjSDLtNR3u2zCz1PjGyYa6uc1xufljyTpsBQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 19:55:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cRgBH+prjSDLtNR3u2zCz1PjGyYa6uc1xufljyTpsBQ="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\eu7m4bqr1l-f0w6o6t5b3.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.001666666667"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "599"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l9FnewRlAUvdCCCsmq4Pjxmcoq3z02WztJw437MUMDU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 19:55:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"cRgBH+prjSDLtNR3u2zCz1PjGyYa6uc1xufljyTpsBQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cRgBH+prjSDLtNR3u2zCz1PjGyYa6uc1xufljyTpsBQ="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\eu7m4bqr1l-f0w6o6t5b3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001310615990"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "762"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jGh2aizhQHGXyY6twHIaJAk/MqbWCyNfbFKGVAy4ebs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 19:55:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"cRgBH+prjSDLtNR3u2zCz1PjGyYa6uc1xufljyTpsBQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cRgBH+prjSDLtNR3u2zCz1PjGyYa6uc1xufljyTpsBQ="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.br",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\eu7m4bqr1l-f0w6o6t5b3.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "599"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l9FnewRlAUvdCCCsmq4Pjxmcoq3z02WztJw437MUMDU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 19:55:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-l9FnewRlAUvdCCCsmq4Pjxmcoq3z02WztJw437MUMDU="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\eu7m4bqr1l-f0w6o6t5b3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "762"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jGh2aizhQHGXyY6twHIaJAk/MqbWCyNfbFKGVAy4ebs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 19:55:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jGh2aizhQHGXyY6twHIaJAk/MqbWCyNfbFKGVAy4ebs="
+        }
+      ]
+    },
+    {
+      "Route": "vite.69kjnsiwqx.svg",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\nvj9huyezp-69kjnsiwqx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001288659794"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "775"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XQkDcax/ToCYcNsBDmzd6VCkok+CNLm2INPe95PRPSM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 10:02:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "69kjnsiwqx"
+        },
+        {
+          "Name": "label",
+          "Value": "vite.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs="
+        }
+      ]
+    },
+    {
+      "Route": "vite.69kjnsiwqx.svg",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\nvj9huyezp-69kjnsiwqx.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.001485884101"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "672"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ojgkTRs8O5BbJRvhn48R73h+4WBGEeBhXbrIrIbtbX0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 10:02:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "69kjnsiwqx"
+        },
+        {
+          "Name": "label",
+          "Value": "vite.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs="
+        }
+      ]
+    },
+    {
+      "Route": "vite.69kjnsiwqx.svg",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\wwwroot\\vite.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 10:02:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "69kjnsiwqx"
+        },
+        {
+          "Name": "label",
+          "Value": "vite.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs="
+        }
+      ]
+    },
+    {
+      "Route": "vite.69kjnsiwqx.svg.br",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\nvj9huyezp-69kjnsiwqx.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "672"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ojgkTRs8O5BbJRvhn48R73h+4WBGEeBhXbrIrIbtbX0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 10:02:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "69kjnsiwqx"
+        },
+        {
+          "Name": "label",
+          "Value": "vite.svg.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ojgkTRs8O5BbJRvhn48R73h+4WBGEeBhXbrIrIbtbX0="
+        }
+      ]
+    },
+    {
+      "Route": "vite.69kjnsiwqx.svg.gz",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\nvj9huyezp-69kjnsiwqx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "775"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XQkDcax/ToCYcNsBDmzd6VCkok+CNLm2INPe95PRPSM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 10:02:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "69kjnsiwqx"
+        },
+        {
+          "Name": "label",
+          "Value": "vite.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XQkDcax/ToCYcNsBDmzd6VCkok+CNLm2INPe95PRPSM="
+        }
+      ]
+    },
+    {
+      "Route": "vite.svg",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.client\\dist\\vite.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 10:02:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs="
+        }
+      ]
+    },
+    {
+      "Route": "vite.svg",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\jk0q53du7f-69kjnsiwqx.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.001485884101"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "672"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ojgkTRs8O5BbJRvhn48R73h+4WBGEeBhXbrIrIbtbX0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 10:02:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs="
+        }
+      ]
+    },
+    {
+      "Route": "vite.svg",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\jk0q53du7f-69kjnsiwqx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001288659794"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "775"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XQkDcax/ToCYcNsBDmzd6VCkok+CNLm2INPe95PRPSM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 10:02:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs="
+        }
+      ]
+    },
+    {
+      "Route": "vite.svg.br",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\jk0q53du7f-69kjnsiwqx.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "672"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ojgkTRs8O5BbJRvhn48R73h+4WBGEeBhXbrIrIbtbX0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 10:02:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ojgkTRs8O5BbJRvhn48R73h+4WBGEeBhXbrIrIbtbX0="
+        }
+      ]
+    },
+    {
+      "Route": "vite.svg.br",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\nvj9huyezp-69kjnsiwqx.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "672"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ojgkTRs8O5BbJRvhn48R73h+4WBGEeBhXbrIrIbtbX0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 10:02:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ojgkTRs8O5BbJRvhn48R73h+4WBGEeBhXbrIrIbtbX0="
+        }
+      ]
+    },
+    {
+      "Route": "vite.svg.gz",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\nvj9huyezp-69kjnsiwqx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "775"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XQkDcax/ToCYcNsBDmzd6VCkok+CNLm2INPe95PRPSM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 10:02:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XQkDcax/ToCYcNsBDmzd6VCkok+CNLm2INPe95PRPSM="
+        }
+      ]
+    },
+    {
+      "Route": "vite.svg.gz",
+      "AssetFile": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.server\\obj\\Release\\net9.0\\compressed\\publish\\jk0q53du7f-69kjnsiwqx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "775"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XQkDcax/ToCYcNsBDmzd6VCkok+CNLm2INPe95PRPSM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 10:02:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XQkDcax/ToCYcNsBDmzd6VCkok+CNLm2INPe95PRPSM="
+        }
+      ]
+    }
+  ]
+}

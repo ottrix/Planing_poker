@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" href="/logoWhite.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Plan-Poker.com</title>
+    <style>
+        #logo {
+            max-width: 600px;
+            width: 100%;
+            height: auto;
+        }
+
+        @media (max-width: 20in) {
+            #logo {
+                max-width: 260px;
+                width: 20%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div id="root">
+        <img id="logoBlack" src="/logoBlack.png" alt="Logo Black" style="display: none;">
+        <img id="logoWhite" src="/logoWhite.png" alt="Logo White" style="display: none;">
+    </div>
+    <script type="module" src="/src/index.tsx"></script>
+    <script>
+        function toggleLogo() {
+            const logoBlack = document.getElementById('logoBlack');
+            const logoWhite = document.getElementById('logoWhite');
+
+            if (logoBlack && logoWhite) {
+                const prefersDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches;
+                if (prefersDarkMode) {
+                    document.body.classList.add('night-mode');
+                }
+
+                const isNightMode = document.body.classList.contains('night-mode');
+                if (isNightMode) {
+                    logoBlack.style.display = 'none';
+                    logoWhite.style.display = 'block';
+                } else {
+                    logoBlack.style.display = 'block';
+                    logoWhite.style.display = 'none';
+                }
+            } else {
+                console.error('Logo elements not found');
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            toggleLogo();
+
+            const roomId = localStorage.getItem('roomId');
+            if (roomId) {
+                console.log(`Joining room with ID: ${roomId}`);
+                joinRoom(roomId);
+            }
+        });
+    </script>
+</body>
+</html>

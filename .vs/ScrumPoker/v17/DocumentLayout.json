@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55D56596-31D0-43A6-8086-136745D57276}|scrumpoker.client\\scrumpoker.client.esproj|c:\\users\\macie\\source\\repos\\scrumpoker\\scrumpoker.client\\src\\components\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{55D56596-31D0-43A6-8086-136745D57276}|scrumpoker.client\\scrumpoker.client.esproj|solutionrelative:scrumpoker.client\\src\\components\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D56596-31D0-43A6-8086-136745D57276}|scrumpoker.client\\scrumpoker.client.esproj|c:\\users\\macie\\source\\repos\\scrumpoker\\scrumpoker.client\\src\\components\\userlist.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{55D56596-31D0-43A6-8086-136745D57276}|scrumpoker.client\\scrumpoker.client.esproj|solutionrelative:scrumpoker.client\\src\\components\\userlist.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 134,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserList.tsx",
+              "DocumentMoniker": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.client\\src\\components\\UserList.tsx",
+              "RelativeDocumentMoniker": "scrumpoker.client\\src\\components\\UserList.tsx",
+              "ToolTip": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.client\\src\\components\\UserList.tsx",
+              "RelativeToolTip": "scrumpoker.client\\src\\components\\UserList.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-25T12:24:31.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.client\\src\\components\\App.tsx",
+              "RelativeDocumentMoniker": "scrumpoker.client\\src\\components\\App.tsx",
+              "ToolTip": "C:\\Users\\macie\\source\\repos\\ScrumPoker\\scrumpoker.client\\src\\components\\App.tsx",
+              "RelativeToolTip": "scrumpoker.client\\src\\components\\App.tsx",
+              "ViewState": "AgIAABgBAAAAAAAAAAAcwEoBAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-25T12:04:44.012Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
