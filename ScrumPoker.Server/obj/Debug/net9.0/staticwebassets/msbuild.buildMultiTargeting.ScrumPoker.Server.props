@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\ScrumPoker.Server.props" />
-</Project>
